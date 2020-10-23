@@ -94,3 +94,5 @@ C:\Users\scarroll\Documents\Engine Maintainance Practice\EngineMaintainancePract
 C:\Users\scarroll\Documents\Engine Maintainance Practice\EngineMaintainancePractice\scripting-to-framework\Royale.test\obj\Debug\netcoreapp3.1\Royale.test.dll
 C:\Users\scarroll\Documents\Engine Maintainance Practice\EngineMaintainancePractice\scripting-to-framework\Royale.test\obj\Debug\netcoreapp3.1\Royale.test.pdb
 C:\Users\scarroll\Documents\Engine Maintainance Practice\EngineMaintainancePractice\scripting-to-framework\Royale.test\obj\Debug\netcoreapp3.1\Royale.test.genruntimeconfig.cache
+C:\Users\scarroll\Documents\Engine Maintainance Practice\EngineMaintainancePractice\scripting-to-framework\Royale.test\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\scarroll\Documents\Engine Maintainance Practice\EngineMaintainancePractice\scripting-to-framework\Royale.test\bin\Debug\netcoreapp3.1\WebDriver.dll
