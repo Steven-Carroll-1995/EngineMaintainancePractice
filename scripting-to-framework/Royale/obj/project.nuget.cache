@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cykKhRCoil9K75i/qjeNMhFy9/SwXw9l8ETlgpeoJvHVohhe4hy/mQhoCYqxF9bg00DxdR3KDm/pYjy5M9dYvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\scarroll\\Documents\\Engine Maintainance Practice\\EngineMaintainancePractice\\scripting-to-framework\\royale\\Royale.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\scarroll\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\scarroll\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

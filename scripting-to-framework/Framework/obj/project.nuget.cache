@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S9ZrVjn81bOVJxK4BUQ2BcS93HPfGiYb5E+OlDMapq9GqzlKU8wMlepvNcrTMsnIO6C0k46B3u4rYdutP4yqlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\scarroll\\Documents\\Engine Maintainance Practice\\EngineMaintainancePractice\\scripting-to-framework\\framework\\Framework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\scarroll\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\scarroll\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
