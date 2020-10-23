@@ -1,9 +1,12 @@
-C:\Users\scarroll\Documents\Engine Maintainance Practice\EngineMaintainancePractice\scripting-to-framework\royale\bin\Debug\netstandard2.0\Royale.deps.json
-C:\Users\scarroll\Documents\Engine Maintainance Practice\EngineMaintainancePractice\scripting-to-framework\royale\bin\Debug\netstandard2.0\Royale.dll
-C:\Users\scarroll\Documents\Engine Maintainance Practice\EngineMaintainancePractice\scripting-to-framework\royale\bin\Debug\netstandard2.0\Royale.pdb
 C:\Users\scarroll\Documents\Engine Maintainance Practice\EngineMaintainancePractice\scripting-to-framework\royale\obj\Debug\netstandard2.0\Royale.csprojAssemblyReference.cache
 C:\Users\scarroll\Documents\Engine Maintainance Practice\EngineMaintainancePractice\scripting-to-framework\royale\obj\Debug\netstandard2.0\Royale.AssemblyInfoInputs.cache
 C:\Users\scarroll\Documents\Engine Maintainance Practice\EngineMaintainancePractice\scripting-to-framework\royale\obj\Debug\netstandard2.0\Royale.AssemblyInfo.cs
 C:\Users\scarroll\Documents\Engine Maintainance Practice\EngineMaintainancePractice\scripting-to-framework\royale\obj\Debug\netstandard2.0\Royale.csproj.CoreCompileInputs.cache
+C:\Users\scarroll\Documents\Engine Maintainance Practice\EngineMaintainancePractice\scripting-to-framework\royale\bin\Debug\netstandard2.0\Royale.deps.json
+C:\Users\scarroll\Documents\Engine Maintainance Practice\EngineMaintainancePractice\scripting-to-framework\royale\bin\Debug\netstandard2.0\Royale.dll
+C:\Users\scarroll\Documents\Engine Maintainance Practice\EngineMaintainancePractice\scripting-to-framework\royale\bin\Debug\netstandard2.0\Royale.pdb
+C:\Users\scarroll\Documents\Engine Maintainance Practice\EngineMaintainancePractice\scripting-to-framework\royale\bin\Debug\netstandard2.0\Framework.dll
+C:\Users\scarroll\Documents\Engine Maintainance Practice\EngineMaintainancePractice\scripting-to-framework\royale\bin\Debug\netstandard2.0\Framework.pdb
+C:\Users\scarroll\Documents\Engine Maintainance Practice\EngineMaintainancePractice\scripting-to-framework\royale\obj\Debug\netstandard2.0\Royale.csproj.CopyComplete
 C:\Users\scarroll\Documents\Engine Maintainance Practice\EngineMaintainancePractice\scripting-to-framework\royale\obj\Debug\netstandard2.0\Royale.dll
 C:\Users\scarroll\Documents\Engine Maintainance Practice\EngineMaintainancePractice\scripting-to-framework\royale\obj\Debug\netstandard2.0\Royale.pdb

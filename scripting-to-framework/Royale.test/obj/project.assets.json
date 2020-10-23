@@ -1214,6 +1214,33 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "Framework/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Selenium.Support": "3.141.0",
+          "Selenium.WebDriver": "3.141.0"
+        },
+        "compile": {
+          "bin/placeholder/Framework.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Framework.dll": {}
+        }
+      },
+      "Royale/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Framework": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Royale.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Royale.dll": {}
+        }
       }
     }
   },
@@ -4524,6 +4551,16 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "Framework/1.0.0": {
+      "type": "project",
+      "path": "../framework/Framework.csproj",
+      "msbuildProject": "../framework/Framework.csproj"
+    },
+    "Royale/1.0.0": {
+      "type": "project",
+      "path": "../royale/Royale.csproj",
+      "msbuildProject": "../royale/Royale.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4531,8 +4568,7 @@
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "NUnit >= 3.12.0",
       "NUnit3TestAdapter >= 3.16.1",
-      "Selenium.Support >= 3.141.0",
-      "Selenium.WebDriver >= 3.141.0"
+      "Royale >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4560,7 +4596,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\scarroll\\Documents\\Engine Maintainance Practice\\EngineMaintainancePractice\\scripting-to-framework\\royale\\Royale.csproj": {
+              "projectPath": "C:\\Users\\scarroll\\Documents\\Engine Maintainance Practice\\EngineMaintainancePractice\\scripting-to-framework\\royale\\Royale.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -4583,14 +4623,6 @@
           "NUnit3TestAdapter": {
             "target": "Package",
             "version": "[3.16.1, )"
-          },
-          "Selenium.Support": {
-            "target": "Package",
-            "version": "[3.141.0, )"
-          },
-          "Selenium.WebDriver": {
-            "target": "Package",
-            "version": "[3.141.0, )"
           }
         },
         "imports": [
